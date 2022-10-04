@@ -1,0 +1,15 @@
+.customCarouselInner {
+  border-radius: 10px;
+}
+.customCarouselNext {
+  background-color: rgba(116, 116, 116, 0.274);
+  height: 40%;
+  margin: auto 12px;
+  border-radius: 10% 0 0 10%;
+}
+.customCarouselPrev {
+  background-color: rgba(116, 116, 116, 0.274);
+  height: 40%;
+  margin: auto 12px;
+  border-radius: 0 10% 10% 0;
+}
