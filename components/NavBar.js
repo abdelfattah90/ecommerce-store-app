@@ -4,7 +4,7 @@ import { useRouter } from 'next/router'
 
 import Navbar from '../styles/components/Navbar.module.css'
 
-const NavBar = () => {
+export default function NavBar() {
   const router = useRouter()
 
   return (
@@ -101,5 +101,3 @@ const NavBar = () => {
     </>
   )
 }
-
-export default NavBar

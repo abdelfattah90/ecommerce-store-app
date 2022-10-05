@@ -1,7 +1,8 @@
 import Head from 'next/head'
 import NavBar from '../../components/NavBar'
 import Image from 'next/image'
-const Index = () => {
+
+export default function IndexBrands() {
   return (
     <>
       <Head>
@@ -24,5 +25,3 @@ const Index = () => {
     </>
   )
 }
-
-export default Index

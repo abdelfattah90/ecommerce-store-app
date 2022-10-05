@@ -1,7 +1,7 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faSearch } from '@fortawesome/free-solid-svg-icons'
 
-import Searchbar from '../styles/components/Searchbar.module.css'
+import Searchbar from '../../styles/components/HomeComponents/Searchbar.module.css'
 
 const SearchBar = () => {
   return (

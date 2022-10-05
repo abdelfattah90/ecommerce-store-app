@@ -1,6 +1,6 @@
-import Sliderimages from '../styles/components/Sliderimages.module.css'
+import Sliderimages from '../../styles/components/HomeComponents/Sliderimages.module.css'
 
-const SliderImages = () => {
+export default function SliderImages() {
   return (
     <div
       id='carouselExampleFade'
@@ -65,5 +65,3 @@ const SliderImages = () => {
     </div>
   )
 }
-
-export default SliderImages
