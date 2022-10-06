@@ -1,3 +1,7 @@
 .customSwiper {
   width: 90%;
 }
+.sizeImg {
+  height: auto;
+  width: auto;
+}
